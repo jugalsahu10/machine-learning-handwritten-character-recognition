@@ -10,3 +10,5 @@ Neural Network Learning with Backpropagation
 
 4. type ```ex4``` to the command line to view a digit recogition neural network
 with about 95% success rate trained using backpropagation.
+
+training_set.rar should be extracted and used as folder.
